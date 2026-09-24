@@ -1,0 +1,6 @@
+[project]
+name = "brain-cohort"
+version = "0.1.0"
+description = "脑图谱受控队列查询的服务端领域基础"
+requires-python = ">=3.11"
+dependencies = []
